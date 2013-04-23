@@ -1,4 +1,4 @@
-package com.psychobit.common.factories;
+package com.hcsmp.common.factories;
 
 import static org.mockito.Mockito.when;
 
