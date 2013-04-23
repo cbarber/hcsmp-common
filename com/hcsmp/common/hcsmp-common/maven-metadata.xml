@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.hcsmp.common</groupId>
+  <artifactId>hcsmp-common</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130423173252</lastUpdated>
+  </versioning>
+</metadata>
