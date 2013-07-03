@@ -3,6 +3,8 @@ hcsmp-common
 
 hcsmp common code
 
+http://stackoverflow.com/questions/14013644/hosting-a-maven-repository-on-github/14013645#14013645
+
 How to fix error “Updating Maven Project”. Unsupported IClasspathEntry kind=4?
 http://stackoverflow.com/questions/10564684/how-to-fix-error-updating-maven-project-unsupported-iclasspathentry-kind-4
 
