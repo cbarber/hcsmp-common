@@ -4,8 +4,8 @@
   <artifactId>hcsmp-common</artifactId>
   <versioning>
     <versions>
-      <version>0.0.2-SNAPSHOT</version>
+      <version>0.0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130423173252</lastUpdated>
+    <lastUpdated>20130703010346</lastUpdated>
   </versioning>
 </metadata>
